@@ -34,7 +34,7 @@ Today most of my work is in **Python**: agent workflows, LLM integrations, autom
 
 ## 🚀 Selected public projects
 
-- **[fec_clean](https://github.com/tareeqemad/fec_clean)** — Python pipeline for cleaning and structuring FEC filings data
+- **[fec-pipeline](https://github.com/tareeqemad/fec-pipeline)** — Python data pipeline that ingests, cleans, and structures FEC filings into queryable datasets
 - **[rased](https://github.com/tareeqemad/rased)** — Laravel business application with Oracle integration and reporting
 - **[ucas-oracle](https://github.com/tareeqemad/ucas-oracle)** — CodeIgniter 3 setup for Oracle-backed applications
 - **[store-front](https://github.com/tareeqemad/store-front)** — E-commerce REST API in Node.js and TypeScript with PostgreSQL, JWT auth, and Jasmine tests
